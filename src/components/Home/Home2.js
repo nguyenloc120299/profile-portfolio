@@ -21,8 +21,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
 
-              I am a web developer. I have a great passion for programming and I am eager to explore new technologies. I have over 2 years of experience in developing web applications using modern technologies such as
-              <span className="purple"> React.js</span>, Next.js, Node.js, and Vue.js. Additionally, I have the ability to work with blockchain through libraries like Web3.js and Ether.js.
+              I'm a web developer with over 2 years of experience,skilled in both frontend and backend development.I've worked on diverse projects, and while myprimary expertise is in frontend, I'm continuallyimproving my backend skills. I've gained practicalexperience through various projects and I'mcurrently building a personal portfolio to showcasemy work.
             </p>
             <p className="home-about-body">
               My motto is "Give me a fulcrum, and I will lift the entire world."

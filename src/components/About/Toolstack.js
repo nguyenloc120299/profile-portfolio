@@ -6,12 +6,22 @@ import {
   SiPostman,
   SiHeroku,
   SiVercel,
-  SiRailway
+  SiRailway,
+  SiFigma,
+  SiCanva,
+  SiCloudfoundry
 } from "react-icons/si";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFigma />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiCanva />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>

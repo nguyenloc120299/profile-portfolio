@@ -52,9 +52,9 @@ function Projects() {
               isBlog={false}
               isGithub={false}
               title="Tôi Đi Reviews"
-              description="I have used technologies such as ReactJs ,CharkraUi, Redux Thunk, ExpressJS"
+              description="I have utilized technologies such as ReactJS, Chakra UI, Redux Thunk, and ExpressJS in the project that is currently under development and nearing completion. The focus has been on enhancing the user interface as well as refining various functionalities."
               ghLink="https://github.com/nguyenloc120299/toidireviews"
-              demoLink="https://toidireviews.up.railway.app/"
+              demoLink="https://demo.nguyenlocdev.site/"
               isShow={true}
             />
           </Col>
@@ -78,7 +78,7 @@ function Projects() {
               title="POOLS PHONE Pre-Order"
               description="Project build width ReactJS, Boostrap, AntDesign, Web3Js "
               // ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://mall.poolsmobility.com/"
+              demoLink="https://mall-test.poolsmobility.com/"
             />
           </Col>
 
